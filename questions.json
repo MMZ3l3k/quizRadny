@@ -1,0 +1,167 @@
+{
+  "title": "Quiz – Status prawny radnego gminy",
+  "timeLimit": 20,
+  "rounds": [
+    {
+      "name": "Eliminacje",
+      "advance": 5,
+      "nextLabel": "półfinału",
+      "questions": [
+        {
+          "text": "Jaką funkcję pełni radny w samorządzie gminnym?",
+          "answers": [
+            "Jest członkiem rady gminy, która podejmuje uchwały i sprawuje kontrolę",
+            "Samodzielnie kieruje urzędem gminy",
+            "Jest przedstawicielem wojewody w gminie",
+            "Wydaje decyzje administracyjne zamiast wójta"
+          ],
+          "correct": 0
+        },
+        {
+          "text": "Co oznacza, że mandat radnego jest wolny?",
+          "answers": [
+            "Radny może wykonywać mandat bez przestrzegania prawa",
+            "Radny musi głosować zgodnie z poleceniami wyborców",
+            "Radny działa dla dobra całej gminy i nie jest związany instrukcjami wyborców",
+            "Radny reprezentuje wyłącznie osoby, które na niego głosowały"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Czy mieszkańcy mogą odwołać jednego radnego w referendum?",
+          "answers": [
+            "Tak, jeżeli zagłosuje za tym większość mieszkańców",
+            "Tak, ale tylko za zgodą wójta",
+            "Tak, jeśli radny nie realizuje obietnic wyborczych",
+            "Nie, referendum może dotyczyć odwołania całej rady gminy"
+          ],
+          "correct": 3
+        },
+        {
+          "text": "Jakie warunki co do zasady musi spełnić kandydat na radnego?",
+          "answers": [
+            "Ukończyć 21 lat i pracować na terenie gminy",
+            "Ukończyć 18 lat, mieć prawo wybierania i stale zamieszkiwać w gminie",
+            "Ukończyć 25 lat i mieć wyższe wykształcenie",
+            "Mieć co najmniej 5 lat doświadczenia w administracji"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Co radny musi zrobić przed przystąpieniem do wykonywania mandatu?",
+          "answers": [
+            "Podpisać umowę o pracę z urzędem gminy",
+            "Uzyskać pisemną zgodę wojewody",
+            "Złożyć ślubowanie",
+            "Złożyć wniosek o przyznanie diety"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Które zachowanie najlepiej odpowiada obowiązkom radnego?",
+          "answers": [
+            "Uczestniczenie w sesjach, kontakt z mieszkańcami i przekazywanie ich postulatów",
+            "Uczestniczenie wyłącznie w głosowaniach dotyczących własnego okręgu",
+            "Wykonywanie poleceń wójta bez możliwości zadawania pytań",
+            "Samodzielne wydawanie decyzji w sprawach mieszkańców"
+          ],
+          "correct": 0
+        },
+        {
+          "text": "Co powinien zrobić radny, gdy głosowanie dotyczy jego interesu prawnego?",
+          "answers": [
+            "Zagłosować zgodnie z własnym interesem",
+            "Nie brać udziału w tym głosowaniu",
+            "Poprosić wójta o zgodę na głosowanie",
+            "Wziąć udział wyłącznie w głosowaniu tajnym"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "name": "Półfinał",
+      "advance": 2,
+      "nextLabel": "finału",
+      "questions": [
+        {
+          "text": "Czy radny ma prawo uzyskiwać informacje o działalności urzędu gminy?",
+          "answers": [
+            "Nie, informacje są dostępne tylko dla wójta",
+            "Tak, ale wyłącznie za zgodą wojewody",
+            "Tak, bez żadnych ograniczeń dotyczących informacji",
+            "Tak, z poszanowaniem dóbr osobistych i tajemnic chronionych prawem"
+          ],
+          "correct": 3
+        },
+        {
+          "text": "W jaki sposób radny składa interpelację lub zapytanie?",
+          "answers": [
+            "Ustnie, bezpośrednio do wojewody",
+            "Za pośrednictwem mieszkańców podczas konsultacji",
+            "Pisemnie do przewodniczącego rady, który przekazuje je wójtowi",
+            "Wyłącznie podczas głosowania na sesji rady"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Ile czasu ma wójt na pisemną odpowiedź na interpelację radnego?",
+          "answers": ["7 dni", "14 dni", "21 dni", "30 dni"],
+          "correct": 1
+        },
+        {
+          "text": "Czy pracodawca może rozwiązać stosunek pracy z radnym bez zgody rady gminy?",
+          "answers": [
+            "Tak, jeśli poinformuje przewodniczącego rady",
+            "Tak, jeśli radny otrzymuje dietę",
+            "Tak, ale wyłącznie na polecenie wojewody",
+            "Nie, rozwiązanie stosunku pracy wymaga uprzedniej zgody rady gminy"
+          ],
+          "correct": 3
+        },
+        {
+          "text": "Czym jest dieta przysługująca radnemu?",
+          "answers": [
+            "Świadczeniem związanym z wykonywaniem mandatu, a nie pensją za pracę",
+            "Wynagrodzeniem za zatrudnienie w urzędzie gminy",
+            "Nagrodą przyznawaną wyłącznie za obecność na wszystkich sesjach",
+            "Stałym dodatkiem wypłacanym przez wojewodę"
+          ],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "name": "Finał",
+      "advance": 1,
+      "nextLabel": "zwycięstwa",
+      "questions": [
+        {
+          "text": "Która działalność gospodarcza jest zakazana radnemu?",
+          "answers": [
+            "Każda działalność gospodarcza na terenie Polski",
+            "Każda działalność niezwiązana z administracją publiczną",
+            "Działalność prowadzona z wykorzystaniem mienia komunalnego gminy, w której uzyskał mandat",
+            "Wyłącznie działalność gospodarcza prowadzona poza swoją gminą"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "W jakim terminie radny składa coroczne oświadczenie majątkowe?",
+          "answers": ["Do 31 marca", "Do 30 kwietnia", "Do 30 czerwca", "Do 31 grudnia"],
+          "correct": 1
+        },
+        {
+          "text": "Która sytuacja może doprowadzić do wygaśnięcia mandatu radnego?",
+          "answers": [
+            "Głosowanie niezgodne z oczekiwaniami wyborców",
+            "Publiczna krytyka działań wójta",
+            "Jednorazowa nieobecność na posiedzeniu komisji",
+            "Niezłożenie oświadczenia majątkowego mimo dodatkowego wezwania"
+          ],
+          "correct": 3
+        }
+      ]
+    }
+  ]
+}
